@@ -1,14 +1,14 @@
 {
-  "title": "Aave",
-  "starts_at": "2023-01-09 15:00",
-  "ends_at": "2023-01-12 15:00",
-  "judging_ends_at": "2023-01-15 15:00",
-  "prize_pool": "10000",
-  "lead_senior_auditor_fixed_pay": "4000",
-  "short_description": "Aave is..",
-  "sponsor": "Aave",
-  "github_team": "aave",
-  "lines_of_code": "~321",
+  "title": "Hats",
+  "starts_at": "2030-01-01 15:00",
+  "ends_at": "2030-01-08 15:00",
+  "judging_ends_at": "2030-01-11 15:00",
+  "prize_pool": "25000",
+  "lead_senior_auditor_fixed_pay": "10000",
+  "short_description": "Hats Protocol is the DAO-native way to structure your organization, empowering contributors with the context, authorities, and accountabilities they need to get things done",
+  "sponsor": "Hats",
+  "github_team": "hats",
+  "lines_of_code": "~1,156",
   "private": false,
-  "lead_senior_auditor_handle": "WATCHPUG"
+  "lead_senior_auditor_handle": "obront"
 }
