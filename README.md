@@ -74,4 +74,18 @@ A: [ACCEPTABLE/NOT ACCEPTABLE]
 
 # Audit scope
 
+
+[hats-protocol @ fafcfdf046c0369c1f9e077eacd94a328f9d7af0](https://github.com/Hats-Protocol/hats-protocol/tree/fafcfdf046c0369c1f9e077eacd94a328f9d7af0)
+- [hats-protocol/script/Hats.s.sol](hats-protocol/script/Hats.s.sol)
+- [hats-protocol/src/Hats.sol](hats-protocol/src/Hats.sol)
+- [hats-protocol/src/HatsIdUtilities.sol](hats-protocol/src/HatsIdUtilities.sol)
+
+[hats-zodiac @ 9455cc0957762f5dbbd8e62063d970199109b977](https://github.com/Hats-Protocol/hats-zodiac/tree/9455cc0957762f5dbbd8e62063d970199109b977)
+- [hats-zodiac/src/HatsSignerGate.sol](hats-zodiac/src/HatsSignerGate.sol)
+- [hats-zodiac/src/HatsSignerGateBase.sol](hats-zodiac/src/HatsSignerGateBase.sol)
+- [hats-zodiac/src/HatsSignerGateFactory.sol](hats-zodiac/src/HatsSignerGateFactory.sol)
+- [hats-zodiac/src/MultiHatsSignerGate.sol](hats-zodiac/src/MultiHatsSignerGate.sol)
+
+
+
 # About [project name]
