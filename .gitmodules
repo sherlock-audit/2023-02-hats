@@ -1,0 +1,6 @@
+[submodule "hats-protocol"]
+	path = hats-protocol
+	url = https://github.com/Hats-Protocol/hats-protocol
+[submodule "hats-zodiac"]
+	path = hats-zodiac
+	url = https://github.com/Hats-Protocol/hats-zodiac
