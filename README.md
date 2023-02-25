@@ -171,7 +171,6 @@ A: NOT ACCEPTABLE
 
 [hats-protocol @ fafcfdf046c0369c1f9e077eacd94a328f9d7af0](https://github.com/Hats-Protocol/hats-protocol/tree/fafcfdf046c0369c1f9e077eacd94a328f9d7af0)
 
-- [hats-protocol/script/Hats.s.sol](hats-protocol/script/Hats.s.sol)
 - [hats-protocol/src/Hats.sol](hats-protocol/src/Hats.sol)
 - [hats-protocol/src/HatsIdUtilities.sol](hats-protocol/src/HatsIdUtilities.sol)
 
