@@ -11,6 +11,46 @@
 - [Goerli Hats Protocol deployment](https://goerli.etherscan.io/address/0xe274f43bea6656b4c8316ee172dce6f5550533cc)
 - [Goerli Hats Signer Gate deployment](https://goerli.etherscan.io/address/0xf1400e81b6c2c5d3e53ca6962102d0bec2c40780)
 
+# Testing
+
+Follow these steps to test the in-scope contracts:
+
+1\. **Load the in-scope repos**. Since there are two in-scope repos, they are included in this contest repo as submodules.
+
+Run the following command will load the submodules as well as all of their dependencies:
+
+``` zsh
+> git submodule update --init --recursive
+```
+
+2\. **Install Foundry**. Each in-scope repo uses Foundry. If you don't already have it installed, install Foundry by running the following command:
+
+``` zsh
+> curl -L https://foundry.paradigm.xyz | bash
+```
+
+This will download foundryup. Then install Foundry by running:
+
+``` zsh
+> foundryup
+```
+
+foundryup
+
+3\. **Run the tests**.  To compile the contracts and run the tests, run the following command from within the respective directories:
+
+``` zsh
+> forge test
+```
+
+Alternatively, you can compile the contracts separately by running the following before `forge test`:
+
+``` zsh
+> forge build
+```
+
+More info can be found in the Hats Protocol [CONTRIBUTING.md](https://github.com/hats-protocol/hats-protocol/blob/main/CONTRIBUTING.md) file.
+
 # On-chain context
 
 This audit covers two sets of contracts.
@@ -91,7 +131,7 @@ ____
 
 ### Q: Please provide links to previous audits (if any)
 
-A: [hats-protocol/audits/TrustSecurity_HatsProtocol_v02.pdf](./hats-protocol/audits/TrustSecurity_HatsProtocol_v02.pdf)
+A: [hats-protocol/audits/TrustSecurity_HatsProtocol_v02.pdf](https://github.com/hats-protocol/hats-protocol/blob/main/audits/TrustSecurity_HatsProtocol_v02.pdf)
 
 ___
 
@@ -154,7 +194,7 @@ ____
 
 ### Q: Please provide links to previous audits (if any)
 
-A: [hats-zodiac/audits/TrustSecurity_HatsProtocol_v02.pdf](./hats-zodiac/audits/TrustSecurity_HatsProtocol_v02.pdf)
+A: [hats-zodiac/audits/TrustSecurity_HatsProtocol_v02.pdf](https://github.com/hats-protocol/hats-zodiac/blob/main/audits/TrustSecurity_HatsProtocol_v02.pdf)
 
 ___
 
