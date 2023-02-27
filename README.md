@@ -229,10 +229,10 @@ Hats Protocol is a protocol for DAO-native roles and credentials that supports r
 
 Hats are represented on-chain by non-transferable tokens that conform to the ERC1155 interface. An address with a balance of a given Hat token "wears" that hat, granting them the responsibilities and authorities that have been assigned to the Hat by the DAO.
 
-See more in the [Hats Protocol README](https://github.com/Hats-Protocol/hats-protocol/hats-protocol/README.md) and [Hats Protocol documentation](https://docs.hatsprotocol.org).
+See more in the [Hats Protocol README](https://github.com/Hats-Protocol/hats-protocol/README.md) and [Hats Protocol documentation](https://docs.hatsprotocol.org).
 
 ## Hats Signer Gate
 
 A contract that grants multisig signing rights to addresses wearing a given Hat, enabling on-chain organizations (such as DAOs) to revocably delegate constrained signing authority and responsibility to individuals.
 
-See more in the [Hats Zodiac README](https://github.com/Hats-Protocol/hats-protocol/hats-zodiac/README.md).
+See more in the [Hats Zodiac README](https://github.com/Hats-Protocol/hats-zodiac/README.md).
